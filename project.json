@@ -57,13 +57,6 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCase_cortextools.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "24e78264-0555-4ff5-99ec-a8fe7012d44b",
-        "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase.xaml"
       }
     ],
     "saveToCloud": false
