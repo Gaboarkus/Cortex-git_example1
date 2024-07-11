@@ -597,7 +597,7 @@
                 </uix:VerifyExecutionOptions>
               </uix:NClick.VerifyOptions>
             </uix:NClick>
-            <uta:VerifyControlAttribute AlternativeVerificationTitle="{x:Null}" KeepScreenshots="{x:Null}" OutputMessageFormat="{x:Null}" Result="{x:Null}" ScreenshotsPath="{x:Null}" ContinueOnFailure="True" DisplayName="Verify Control Attribute" sap:VirtualizedContainerService.HintSize="534,301.3333333333333" sap2010:WorkflowViewState.IdRef="VerifyControlAttribute_6" Operator="Contains" OutputArgument="TextString" TakeScreenshotInCaseOfFailingAssertion="True" TakeScreenshotInCaseOfSucceedingAssertion="False">
+            <uta:VerifyControlAttribute AlternativeVerificationTitle="{x:Null}" KeepScreenshots="{x:Null}" OutputMessageFormat="{x:Null}" Result="{x:Null}" ScreenshotsPath="{x:Null}" ContinueOnFailure="True" DisplayName="Verify Control Attribute" sap:VirtualizedContainerService.HintSize="534,301.3333333333333" sap2010:WorkflowViewState.IdRef="VerifyControlAttribute_6" Operator="Equality" OutputArgument="TextString" TakeScreenshotInCaseOfFailingAssertion="True" TakeScreenshotInCaseOfSucceedingAssertion="False">
               <uta:VerifyControlAttribute.ActivityToTest>
                 <ActivityAction>
                   <uix:NGetText DisplayName="Get Text 'Select a'" sap:VirtualizedContainerService.HintSize="334,159.33333333333334" sap2010:WorkflowViewState.IdRef="NGetText_6" ScopeIdentifier="c3ba116f-1d11-4a91-bdbe-8980fe303e13" Version="V3">
